@@ -19,7 +19,7 @@ def details(index):
 
     # frame detail
     top = Toplevel()
-    top.title("Detail Residen" + hunians[index].get_jenis())
+    top.title("Detail Residen " + hunians[index].get_jenis())
 
     # frame data residem
     d_frame = LabelFrame(top, text="Data Residen", padx=10, pady=10)
