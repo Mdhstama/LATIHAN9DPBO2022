@@ -2,6 +2,11 @@
 
 *Saya Muhammad Aditya Hasta Pratama (2000360) C1 mengerjakan Tugas Praktikum (Latihan 7) DPBO dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.*
 
+**PENJELASAN DESAIN PROGRAM**
+- Program merupakan data-data hunian yang terdiri dari 3 jenis yaitu apartemen, rumah, dan indekos.
+- Frame utama hanya menampilkan jenis hunian beserta pemiliknya.
+- Frame Detail akan menampilkan *summary*, nama pemilik hunian, jumlah kamar atau nama penghuni (jika jenis hunian indekos), luas hunian, kapasitas listrik, dan dokumen.
+
 **FOTO PROGRAM**
 
 - Main Frame
