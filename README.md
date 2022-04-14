@@ -5,7 +5,7 @@
 **PENJELASAN DESAIN PROGRAM**
 - Program merupakan data-data hunian yang terdiri dari 3 jenis yaitu apartemen, rumah, dan indekos.
 - Frame utama hanya menampilkan jenis hunian beserta pemiliknya.
-- Frame Detail akan menampilkan *summary*, nama pemilik hunian, jumlah kamar atau nama penghuni (jika jenis hunian indekos), luas hunian, kapasitas listrik, dan dokumen.
+- Frame detail akan menampilkan *summary*, nama pemilik hunian, jumlah kamar atau nama penghuni (jika jenis hunian indekos), luas hunian, kapasitas listrik, dan dokumen.
 
 **FOTO PROGRAM**
 
